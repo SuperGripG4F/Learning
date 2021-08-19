@@ -1,9 +1,11 @@
 ## Welcome to MikeBox Learning Pages
 
-19/08/2021<br />
-Hello world!<br />
-Here is my first time to use the GitHub pages to build a webpages for record my study.<br />
-Because my handwrite words are terribly and handwriting cord is so stupid and low efficiency.<br />
+19/08/2021
+
+Hello world!
+
+Here is my first time to use the GitHub pages to build a webpages for record my study.
+Because my handwrite words are terribly and handwriting cord is so stupid and low efficiency.
 Hope this can improve my motivation on jot notes.
 
 Currently, i want to focus on study Angular and Node-red.
