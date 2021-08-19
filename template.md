@@ -1,14 +1,11 @@
 ## Typescript Learning 
+hello here is typescipt page
 
 
 
 
 
 
-
-
-### Useful links
-[typescriptlang.org](https://www.typescriptlang.org/)
 
 
 ### Back to index

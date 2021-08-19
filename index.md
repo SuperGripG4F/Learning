@@ -1,40 +1,21 @@
 ## Welcome to MikeBox Learning Pages
 
-You can use the [editor on GitHub](https://github.com/SuperGripG4F/Learning/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+19/08/2021
+Hello world! 
+Here is my first time to use the GitHub pages to build a webpages for record my study.
+Because my handwrite words are terribly and handwriting cord is so stupid and low efficiency.
+Hope this can improve my motivation on jot notes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently, i want to focus on study Angular and Node-red.
 
-### Markdown
+I hope that i can form it as habit. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SuperGripG4F/Learning/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Table of Content
+1. [Typescript](https://supergripg4f.github.io/Learning/typescript_learning)
+2. [Node-red](https://supergripg4f.github.io/Learning/node_red_learning)
+3. [English](https://supergripg4f.github.io/Learning/english_learning)
 
 ### Maintain content
-[Typescript Learning 1](https://supergripg4f.github.io/Learning/typescript_learning)
+Click here to access the [editor on GitHub](https://github.com/SuperGripG4F/Learning/edit/gh-pages/index.md).
+And the backup of index template, Which allowed me to cope and paste the `MakeDown` style, yeah. [Here is the Backup](https://supergripg4f.github.io/Learning/bak)
