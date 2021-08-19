@@ -37,4 +37,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 ### Maintain content
-[Typescript Learning](https://github.com/SuperGripG4F/Learning/gh-pages/typescript_learning.html)
+[Typescript Learning 2](https://github.com/SuperGripG4F/Learning/typescript_learning)
