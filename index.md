@@ -1,5 +1,12 @@
 ## Welcome to MikeBox Learning Pages
 
+20/08/2021
+
+Hello, here is day 2.
+
+Today want to remind some JavaScript basic concept and study TypeScript
+
+
 19/08/2021
 
 Hello world!
